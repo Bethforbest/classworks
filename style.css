@@ -1,0 +1,24 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+   background: red;
+}
+
+
+
+img[src$='.png'] {
+    width: 200px;
+    height: 200px;
+}
+
+div {
+    display: block;
+    background: black;
+    color: white;
+    margin: 25px 15px;
+    border: 2px solid blue;
+    box-sizing: content-box;
+}

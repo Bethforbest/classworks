@@ -1,0 +1,15 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,OAAO,CAAC;EACJ,UAAU,EAAE,GAAG;CAClB;;ADoBD,AAAA,OAAO,CAAC;EACJ,OAAO,EAAE,IAAI;EAfb,IAAI,EAAE,sBAAsB;EAiB5B,MAAM,EAAE,eAAe;CAC1B",
+    "sources": [
+        "style.scss",
+        "scss/_header.scss",
+        "scss/_banner.scss",
+        "scss/_blog.scss",
+        "scss/_contacts.scss",
+        "scss/_sidebar.scss",
+        "scss/_footer.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}

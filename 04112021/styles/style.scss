@@ -1,0 +1,26 @@
+@import './scss/header';
+@import './scss/banner';
+@import './scss/blog';
+@import './scss/contacts';
+@import './scss/sidebar';
+@import './scss/footer';
+
+
+
+%common-styles {
+    margin: 0;
+    padding: 0;
+}
+
+@mixin center-element($vertical : center, $horizont: center) {
+    display: flex;
+    align-items: $vertical;
+    justify-content: $horizont;
+}
+
+.header {
+    display: grid;
+    @include font;
+    border: 1px solid black;
+}
+

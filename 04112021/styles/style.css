@@ -1,0 +1,11 @@
+.header {
+  background: red;
+}
+
+.header {
+  display: -ms-grid;
+  display: grid;
+  font: italic bold 25px serif;
+  border: 1px solid black;
+}
+/*# sourceMappingURL=style.css.map */

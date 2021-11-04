@@ -1,0 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@mixin font {
+    font: italic bold 25px serif;
+}

@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "normalize.scss",
+        "scss/normalize/normalize-mixin.scss"
+    ],
+    "names": [],
+    "file": "normalize.css"
+}
